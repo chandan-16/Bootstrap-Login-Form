@@ -1,0 +1,345 @@
+* {
+    margin : 0;
+    padding : 0;
+}
+
+body { 
+    padding-top : 40px;
+    background-color :#ffffff;
+}
+
+
+.container .row {
+    height : 80vh;
+    border-radius: 20px;
+    box-shadow : 0px 0px 25px 1px rgb(37, 37, 37);
+}
+
+.container .column-content {
+    border-top-left-radius : 15px;
+    border-bottom-left-radius : 15px;
+} 
+
+
+
+.color {
+    color : #3c3738;
+}
+
+.container .column-content .heading {
+    font-size : 6vh;
+    font-weight : 600;
+}
+
+.container .column-content .some-text {
+    font-size :1.8vh;
+    text-align : justify;
+}
+
+.container .column-content .form-group .form-input-label {
+    font-size : 1.5vh;
+    color:#3c3738;
+}
+
+.container .column-content .login-option {
+    color : #415993;
+    text-align: center;
+    font-weight : 600;
+}
+
+.container .column-content .form-group .forget-password {
+    color : #3c3738;
+    font-size : 1.5vh;
+}
+
+.container .column-content .form-group .forget-password:hover {
+    color :rgb(9, 42, 132);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container .column-content .btn {
+    width: 100%;
+}
+
+.container .column-content .facebook {
+    color : #fff;
+    background-color : #415993;
+}
+
+.container .column-content .facebook:hover {
+    background-color : #304476;  
+}
+
+.container .column-content .twitter {
+    color : #fff;
+    background-color: #4ba1ea;
+}
+
+.container .column-content .twitter:hover {
+    background-color: #4493d9;
+}
+
+.container .column-content .google {
+    color : #fff;
+    background-color : #db4f3e;
+}
+
+.container .column-content .google:hover {
+    background-color:rgb(197, 67, 52); ;
+}
+
+.container .column-content .patent-line {
+    color : #000;
+}
+
+.container .column-image {
+    background-image : url("img/white.jpeg");
+    background-position: center;
+    background-size : cover;
+    border-bottom-right-radius : 15px;
+    border-top-right-radius : 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
